@@ -1,6 +1,5 @@
-﻿
 using System;
-using System.Linq;
+
 
 namespace Valid_Parentheses
 {
